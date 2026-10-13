@@ -1,5 +1,8 @@
 # 📚 Biblioteca Digital UniFECAF
 
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+
+
 Este projeto representa a construção da primeira interface web para a **Biblioteca Digital da UniFECAF**, desenvolvido como desafio prático e acadêmico da disciplina de Design Web. 
 
 **Objetivo e Contexto do Projeto**  
