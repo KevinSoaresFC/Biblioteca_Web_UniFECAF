@@ -21,6 +21,7 @@ A missão principal foi transformar um protótipo de baixa fidelidade em uma pla
 - **Navegação Fluida:** Comportamento de página única (SPA) utilizando links âncora com rolagem suave (`scroll-behavior: smooth`).
 - **Fidelidade Visual:** Contraste adequado, legibilidade e aplicação fiel da paleta de cores corporativa da UniFECAF.
 
-## Autor
+## 👤 Autor
 
-Kevin Soares
+Feito com dedicação por [Kevin Soares](https://github.com/KevinSoaresFC)
+
